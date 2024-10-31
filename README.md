@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/freire9/freire9/master/dff_name.svg" alt="Daniel Freire Fernández" />
+</h1>
+
 ## Hi there 👋
 
 <!--
